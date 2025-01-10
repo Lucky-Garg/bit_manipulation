@@ -1,3 +1,4 @@
+// count number of bits to be flipped to convert A to B.
 #include <stdio.h>
 int bits_flipped(int num, int a, int b)
 {
