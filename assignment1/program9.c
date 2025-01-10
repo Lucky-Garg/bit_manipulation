@@ -1,3 +1,4 @@
+// power set
 #include <stdio.h>
 void power_set(int set[], int n)
 {
