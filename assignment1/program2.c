@@ -1,3 +1,4 @@
+// find the two non repeating elements in an array of repeating elements.
 #include <stdio.h>
 void findTwoNonRepeating(int arr[], int n, int results[])
 {
