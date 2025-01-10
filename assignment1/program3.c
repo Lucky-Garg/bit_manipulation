@@ -1,3 +1,4 @@
+// program to find whether a number is power of two.
 #include <stdio.h>
 int power_of_two(int n)
 {
