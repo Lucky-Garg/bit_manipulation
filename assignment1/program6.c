@@ -1,3 +1,4 @@
+// count total set bits in all numbers from 1 to n.
 #include <stdio.h>
 int count_set_bits(int num)
 {
