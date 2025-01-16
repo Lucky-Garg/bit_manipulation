@@ -1,4 +1,4 @@
-// pascal triangle
+// pascal triangle 
 #include <stdio.h>
 void printPascalTriangle(int rows) {
     for (int i = 0; i < rows; i++) {
