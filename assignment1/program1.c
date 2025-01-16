@@ -1,3 +1,4 @@
+// count set bits in an integer
 #include <stdio.h>
 int count_set_bits(int num)
 {

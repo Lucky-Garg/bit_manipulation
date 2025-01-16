@@ -1,3 +1,4 @@
+// calculate squares of a number without using *,/ and pow()
 #include <stdio.h>
 int bit_square(int num)
 {

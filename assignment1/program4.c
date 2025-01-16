@@ -1,3 +1,4 @@
+// find position of the only set bit.
 #include <stdio.h>
 int setbit_position(int num)
 {
