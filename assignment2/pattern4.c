@@ -1,4 +1,4 @@
-// hollow square of digit
+// hollow square of digit 
 #include <stdio.h>
 void printHollowSquareWithCount(int size) {
     for (int i = 0; i < size; i++) {
